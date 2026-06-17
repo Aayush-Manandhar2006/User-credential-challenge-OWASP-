@@ -26,6 +26,8 @@ The attack used a two-phase methodology — reconnaissance via sqlite_master to 
 
 💻 Code: the fixed backend implementation is in search.ts.
 
+Note: *search.ts file itself is not an application. To apply changes from search.js you will have to install OWASP Juice Shop yourself and manually replace the code from its files.*
+
 Target application: OWASP Juice Shop
 Containerization: Docker
 Interception/testing: Burp Suite
