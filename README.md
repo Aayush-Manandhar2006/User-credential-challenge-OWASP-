@@ -24,7 +24,7 @@ The attack used a two-phase methodology — reconnaissance via sqlite_master to 
 
 📄 Full write-up: see "OWASP Juice Shop.pdf" for the complete methodology, payload breakdowns, request/response evidence, code walkthroughs, and evaluation of each mitigation's strengths and limitations.
 
-💻 Code: the fixed backend implementation is in src/search.ts.
+💻 Code: the fixed backend implementation is in search.ts.
 
 Target application: OWASP Juice Shop
 Containerization: Docker
